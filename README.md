@@ -80,6 +80,7 @@ models/kmeans_pipeline.pkl
 ## Streamlit Application
 
 The Streamlit application allows users to upload a customer-level dataset in CSV format.
+Link: https://customer-segmentation-framework-3jigxkrledexlwewz4vdve.streamlit.app/
 
 The application will:
 
@@ -151,5 +152,5 @@ The project demonstrates that:
 Purwadhika Data Science & Machine Learning Final Project
 
 Author:
-Canly Hansen Sudirman
-Fauzan Hanindyawan Yusnidzar
+- Canly Hansen Sudirman
+- Fauzan Hanindyawan Yusnidzar
