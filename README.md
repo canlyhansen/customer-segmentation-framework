@@ -1,14 +1,8 @@
-# JCDSBSDPM-032_Alpha
-
 # Customer Segmentation Framework using RFMS Analysis and Machine Learning
 
 ## Project Overview
 
-This project develops an integrated customer segmentation framework using the Brazilian E-Commerce Public Dataset by Olist.
-
-The project combines traditional RFMS (Recency, Frequency, Monetary, and Satisfaction) analysis with machine learning-based customer segmentation to provide more comprehensive customer insights for business decision-making.
-
-Rather than replacing traditional segmentation, machine learning is used to complement RFMS by identifying behavioral patterns that may not be captured by rule-based approaches.
+This project develops an integrated customer segmentation framework using the Brazilian E-Commerce Public Dataset by Olist. It combines traditional RFMS (Recency, Frequency, Monetary, and Satisfaction) analysis with machine learning-based customer segmentation to provide more comprehensive customer insights for business decision-making. Rather than replacing traditional segmentation, machine learning is used to complement RFMS by identifying behavioral patterns that may not be captured by rule-based approaches.
 
 ---
 
@@ -81,6 +75,7 @@ models/kmeans_pipeline.pkl
 
 The Streamlit application allows users to upload a customer-level dataset in CSV format.
 Link: https://customer-segmentation-framework-3jigxkrledexlwewz4vdve.streamlit.app/
+Sample CSV: https://drive.google.com/file/d/1HaNEZepbaCA67ek-At0fKYs-mKxfljJA/view?usp=sharing
 
 The application will:
 
@@ -149,8 +144,5 @@ The project demonstrates that:
 
 ## Author
 
-Purwadhika Data Science & Machine Learning Final Project
-
-Author:
 - Canly Hansen Sudirman
 - Fauzan Hanindyawan Yusnidzar
